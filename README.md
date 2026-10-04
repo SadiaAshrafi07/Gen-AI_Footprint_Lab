@@ -103,6 +103,7 @@ streamlit run app.py
 ```
 
 The app opens at http://localhost:8501.
+                 [https://gen-aifootprintlab.streamlit.app/](https://gen-aifootprintlab.streamlit.app/)
 
 ### Run the tests
 ```bash
