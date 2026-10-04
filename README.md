@@ -1,6 +1,10 @@
 # 🌍 GenAI Footprint Lab
 
 **An interactive Streamlit app that estimates the energy, carbon and water cost of generative AI - and tests what actually reduces it.**
+<img width="1853" height="917" alt="image" src="https://github.com/user-attachments/assets/69688f61-4b87-4ebd-8e3b-ef2218d095ca" />
+<img width="1487" height="852" alt="image" src="https://github.com/user-attachments/assets/3b5ba13d-05a8-4849-8c82-73c19671aac5" />
+<img width="1522" height="887" alt="image" src="https://github.com/user-attachments/assets/f34b4367-08e8-437e-a05b-76d9854a36b8" />
+
 
 Capstone project for the *Artificial Intelligence & Generative AI* module.
 
